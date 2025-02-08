@@ -1,0 +1,54 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @WhoisIPDomainBot id=7637060598 - 'Whois IP'
+INFO:aiogram.event:Update id=619642948 is handled. Duration 610 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642949 is handled. Duration 114 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642950 is handled. Duration 247 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642951 is handled. Duration 585 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642952 is handled. Duration 327 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642953 is handled. Duration 793 ms by bot id=7637060598
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @WhoisIPDomainBot id=7637060598 - 'Whois IP'
+INFO:aiogram.event:Update id=619642960 is handled. Duration 510 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642961 is handled. Duration 283 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642962 is handled. Duration 276 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642963 is handled. Duration 192 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642964 is handled. Duration 517 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642965 is handled. Duration 647 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642966 is handled. Duration 370 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642967 is handled. Duration 172 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642968 is handled. Duration 795 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642969 is handled. Duration 421 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642970 is handled. Duration 143 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642971 is handled. Duration 533 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642972 is handled. Duration 433 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642973 is handled. Duration 660 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642974 is handled. Duration 438 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642975 is handled. Duration 182 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642976 is handled. Duration 84 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642977 is handled. Duration 492 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642978 is handled. Duration 85 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642979 is handled. Duration 222 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642980 is handled. Duration 95 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642981 is handled. Duration 622 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642982 is handled. Duration 176 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642983 is handled. Duration 777 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642984 is handled. Duration 632 ms by bot id=7637060598
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7637060598)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 7637060598)
+ERROR:aiogram.dispatcher:Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+WARNING:aiogram.dispatcher:Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7637060598)
+INFO:aiogram.dispatcher:Connection established (tryings = 1, bot id = 7637060598)
+INFO:aiogram.event:Update id=619642985 is handled. Duration 422 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642986 is handled. Duration 401 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642987 is handled. Duration 1024 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642988 is handled. Duration 840 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642989 is handled. Duration 300 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642990 is handled. Duration 636 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642991 is handled. Duration 637 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642992 is handled. Duration 160 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642993 is handled. Duration 70 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642994 is handled. Duration 267 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642995 is handled. Duration 415 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642996 is handled. Duration 70 ms by bot id=7637060598
+INFO:aiogram.event:Update id=619642997 is handled. Duration 73 ms by bot id=7637060598
